@@ -1,0 +1,11 @@
+
+1) Given an array of integers, sort the integer values.
+2) Given an array of integers, print only odd numbers.
+3) Given an array of integers move all even numbers to the beginning of the array.
+4) Print the unique numbers and also print the number of occurences of duplicate numbers.
+5) Given an array of integers check the Fibonacci series.
+6) Given an array of integers check the Palindrome of the series.
+7) Given a string print the unique words of the string.
+8) Given a string print the reverse of the string.
+9) Given a string print the string in same flow, but reversing each word of it.
+10) Read a file content and write it to a new file in reverse order.(reverse line 1-10 to line 10-1)
